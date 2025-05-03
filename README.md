@@ -1,0 +1,23 @@
+# Pokedex Guide
+
+A simple Pokédex web app built with HTML, CSS, and JavaScript.  
+Users can browse and search for Pokémon using data from the [PokéAPI](https://pokeapi.co/).
+
+## Features
+- Live search by Pokémon name
+- Dynamic data fetching from PokéAPI
+- Responsive card layout
+
+## Technologies
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Fetch API
+
+## Preview
+![Screenshot](./screenshot.png)
+
+## Future Improvements
+- Filter by type (e.g., bug, grass)
+- Sort by ID or name
+- Add favorites/bookmarking
