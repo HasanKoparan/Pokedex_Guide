@@ -15,7 +15,11 @@ Users can browse and search for Pokémon using data from the [PokéAPI](https://
 - Fetch API
 
 ## Preview
-![Screenshot](./screenshot.png)
+
+
+https://github.com/user-attachments/assets/dc908967-8472-46fd-834f-d3370e95136f
+
+
 
 ## Future Improvements
 - Filter by type (e.g., bug, grass)
