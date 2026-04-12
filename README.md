@@ -14,8 +14,10 @@ A dynamic and responsive Pokédex web app built with vanilla JavaScript. Fetches
 - 📱 Fully responsive grid layout
 - 🔍 Live search by Pokémon name
 - 🚀 Async/Await with Fetch API
+<img width="897" height="521" alt="Ekran Resmi 2026-04-12 21 36 44" src="https://github.com/user-attachments/assets/70f501ed-1af9-424a-a904-989e2432df32" />
 
 -----
+<img width="1770" height="1028" alt="Ekran Resmi 2026-04-12 21 37 04" src="https://github.com/user-attachments/assets/aaf313ff-bf81-4852-af45-2f08f3a529a8" />
 
 ## 🛠️ Built With
 
