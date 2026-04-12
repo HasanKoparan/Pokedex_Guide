@@ -3,6 +3,7 @@
 A dynamic and responsive Pokédex web app built with vanilla JavaScript. Fetches real-time Pokémon data from the PokéAPI and displays it with type-based color coding, stats, and a clean card layout.
 
 🔗 **[Live Demo](https://hasankoparan.github.io/Pokedex_Guide)**
+https://hasankoparan.github.io/Pokedex_Guide/
 
 -----
 
